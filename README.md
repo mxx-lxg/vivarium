@@ -1,2 +1,2 @@
 # vivarium
-Schedule and track of vivaria and their inhabitants 
+Schedule and track vivaria and their inhabitants 
