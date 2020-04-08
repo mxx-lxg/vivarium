@@ -1,0 +1,7 @@
+{
+  "name": "Vivarium",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
